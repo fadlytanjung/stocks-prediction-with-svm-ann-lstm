@@ -1,0 +1,3 @@
+- Clone project to your local computer
+- Install package 
+- Running prediction-book.ipynb
